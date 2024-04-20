@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787564299795",
+    "project_id": "shiftappens-2024",
+    "storage_bucket": "shiftappens-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787564299795:android:4076489526ea4d772ae1e6",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHYroqSZHWfJdAjEed3Ksgx5oD3G_3S8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
